@@ -1,5 +1,11 @@
-﻿@{
+﻿@model IEnumerable<Blog>
+
+@{
     ViewData["Title"] = "Index";
 }
 
-<h2>Index</h2>
+@foreach (var item in Model)
+{
+    <p>@item.Title
+    @item.Description</p>
+}
