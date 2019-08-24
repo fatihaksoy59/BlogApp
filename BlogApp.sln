@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogApp.WebUI", "BlogApp.WebUI\BlogApp.WebUI.csproj", "{5456DE82-28BA-45A0-BCAD-3D68434C2950}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogApp.Entity", "BlogApp.Entity\BlogApp.Entity.csproj", "{C712F574-D6CD-4DB6-B0AC-7E474D3078D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogApp.Data", "BlogApp.Data\BlogApp.Data.csproj", "{9C3DBA2F-85C8-44BC-B22E-510FA5C64075}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5456DE82-28BA-45A0-BCAD-3D68434C2950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5456DE82-28BA-45A0-BCAD-3D68434C2950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5456DE82-28BA-45A0-BCAD-3D68434C2950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5456DE82-28BA-45A0-BCAD-3D68434C2950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C712F574-D6CD-4DB6-B0AC-7E474D3078D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C712F574-D6CD-4DB6-B0AC-7E474D3078D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C712F574-D6CD-4DB6-B0AC-7E474D3078D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C712F574-D6CD-4DB6-B0AC-7E474D3078D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C3DBA2F-85C8-44BC-B22E-510FA5C64075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C3DBA2F-85C8-44BC-B22E-510FA5C64075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C3DBA2F-85C8-44BC-B22E-510FA5C64075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C3DBA2F-85C8-44BC-B22E-510FA5C64075}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
